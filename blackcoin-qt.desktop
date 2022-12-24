@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Blackmore Wallet
+Comment=Desktop wallet for Blackcoin
+Exec=blackmore-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/org.blackcoin.blackcoin-more.svg
+MimeType=x-scheme-handler/blackcoin;
+Categories=Office;Finance;
+StartupWMClass=Blackmore-qt
