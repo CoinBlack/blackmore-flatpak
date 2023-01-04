@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Blackmore Wallet
+Name=Blackcoin More
 Comment=Desktop wallet for Blackcoin
 Exec=blackmore-qt %u
 Terminal=false
